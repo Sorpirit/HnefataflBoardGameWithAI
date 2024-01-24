@@ -1,0 +1,22 @@
+{
+    "name": "Visuals",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2470f934221aacf46b6e2620a80c6bb3",
+        "GUID:7a62f0f95d9519244a35ffbccf7e2418",
+        "GUID:2c1d46bf41397d3469db23eb946af3ed",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:03058786646e84a4587858e9302c3f41",
+        "GUID:fe25561d224ed4743af4c60938a59d0b",
+        "GUID:f1e29b54a305f5e41b568e4018911b32"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

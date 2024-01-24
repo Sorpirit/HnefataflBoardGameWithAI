@@ -1,0 +1,30 @@
+{
+    "name": "Game",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2c1d46bf41397d3469db23eb946af3ed",
+        "GUID:2470f934221aacf46b6e2620a80c6bb3",
+        "GUID:f1e29b54a305f5e41b568e4018911b32",
+        "GUID:3b8ed52f1b5c64994af4c4e0aa4b6c4b",
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:fe25561d224ed4743af4c60938a59d0b",
+        "GUID:4077802dea91b4b6d878b48b4160bd81",
+        "GUID:4fc462806a32aa245a7b28367381bf24",
+        "GUID:5540e30183c82e84b954c033c388e06c",
+        "GUID:7a3effa9f908d4e8a88877e048cf05dd",
+        "GUID:03058786646e84a4587858e9302c3f41",
+        "GUID:f2d49d9fa7e7eb3418e39723a7d3b92f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "protobuf-net.dll",
+        "protobuf-net.Core.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
